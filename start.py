@@ -4,8 +4,8 @@ from random import random
 # seed random number generator
 seed(1)
 # generate some random numbers
-print(random()fillteringsplus, random()fillteringrubika, random())fillteringeeita
+print(random(), random(), random())
 # reset the seed
 seed(1)
 # generate some random numbers
-print(random()fillteringtelegram, random()fillteringchatroom, random())fillteringall
+print(random(), random(), random())
